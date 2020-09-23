@@ -20,9 +20,13 @@ h2 {
   font-family: sans-serif;
 
 }
+h3{
+  font-size: 95px;
+
+}
 .intro img {
     float: right;
-    width: 750px;
+    width: 650px;
     height: auto;
 }
 #content{
@@ -47,7 +51,7 @@ a {
 .output {
     margin: 10px;
     padding: 10px;
-    border: solid 1px black;
+    border: dotted 8px green;
     font-size: 55px;
-    
+
 }
