@@ -1,0 +1,53 @@
+
+body{
+
+  padding: 50px;
+
+}
+p {
+  font-size: 55px;
+  font-family: sans-serif;
+
+}
+
+h1 {
+  font-size: 65px;
+  font-family: sans-serif;
+
+}
+h2 {
+  font-size: 65px;
+  font-family: sans-serif;
+
+}
+.intro img {
+    float: right;
+    width: 750px;
+    height: auto;
+}
+#content{
+    padding: 50px;
+    background-color: PapayaWhip;
+    border: solid 2px #333333;
+    border: 70px solid green;
+    padding: 50px
+
+}
+.linkbox {
+    padding: 10px;
+    font-size: 45px;
+}
+.sourcelink {
+    float: right;
+}
+a {
+    text-decoration: none;
+    color: maroon;
+}
+.output {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px black;
+    font-size: 55px;
+    
+}
